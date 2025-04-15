@@ -7,6 +7,9 @@ However, by the year of 2024, there are already 1025 Pokemons in total and memor
 difficult task for many Pokemon lovers. The purpose of this project is to create a platform to take a step ahead for resolving this issue.
 Our website provides a service for the user to calculate resistances, weaknesses, and immunities of the input Pokemon.
 
+## Orignial Repository
+https://github.com/xiaogavin-dev/finalproject-csci39548
+
 ## Tech Stack
 - Frontend: ReactJS
 - Backend: ExpressJS (NodeJS)
